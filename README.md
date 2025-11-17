@@ -36,4 +36,4 @@ Instead of automating everything, Kabu encourages you to **write things down you
 
 ## Contact
 
- **e-mail** bdj0107.tt@gmail.com
+- **e-mail:** bdj0107.tt@gmail.com
